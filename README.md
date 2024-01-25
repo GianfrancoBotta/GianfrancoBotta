@@ -13,7 +13,8 @@ Feel free to explore each project's dedicated folder for more details.
 I love connecting with open-source enthusiasts, and anyone interested in the exciting world of personalized medicine. You can reach out to me via email or LinkedIn, and I'm always open to discussions, collaborations, or just a friendly chat.
 
 Email: gianfranco.botta7@gmail.com
-[LinkedIn](www.linkedin.com/in/gianfrancobotta) profile here 
+
+[LinkedIn](www.linkedin.com/in/gianfrancobotta)
 
 # Support
 If you find any issues, have suggestions, or just want to say hi, feel free to open an issue or submit a pull request. Your feedback is highly appreciated and contributes to making this space better for everyone.
