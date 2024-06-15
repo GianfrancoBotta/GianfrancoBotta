@@ -1,5 +1,5 @@
 # About Me
-I'm a passionate bioinformatician with a keen interest in personalized cancer therapy. My goal is to employ newly emerging machine learning methods to infer personalized therapies that best suit each individual. This GitHub account serves as a platform to showcase my work, collaborate with the community, and continually learn and grow.
+I'm a passionate bioinformatician with a keen interest in personalized medicine. My goal is to employ statistics and machine learning to discover personalized therapies that best suit each individual. This GitHub account serves as a platform to showcase my work, collaborate with the community, and continually learn and grow.
 
 # Featured Projects
 Here are some of the key projects you'll find in this repository:
