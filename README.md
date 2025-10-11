@@ -1,7 +1,7 @@
 # About Me
 I'm a passionate bioinformatician with a keen interest in personalized medicine. My goal is to employ statistics and machine learning to discover personalized therapies that best suit each individual. This GitHub account serves as a platform to showcase my work, collaborate with the community, and continually learn and grow.
 
-# Featured Projects
+# Projects
 Here are some of the key projects you'll find in this repository:
 
 * RNA-seq differential expression and ATAC-seq analysis of the data provided in the paper [Krausgruber et al.](https://www.nature.com/articles/s41586-020-2424-4)
