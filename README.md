@@ -14,6 +14,6 @@ Email: gianfranco.botta7@gmail.com
 Linkedin: [LinkedIn](www.linkedin.com/in/gianfrancobotta)
 
 # Support
-If you find any issues, have suggestions, feel free to open an issue or submit a pull request. Your feedback is highly appreciated and contributes to making this space better for everyone.
+If you find any issues or have any suggestions, feel free to open an issue or submit a pull request. Your feedback is highly appreciated and contributes to making this space better for everyone.
 
 Thanks for stopping by!
