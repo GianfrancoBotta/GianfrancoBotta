@@ -10,7 +10,8 @@ Here are some of the key projects you'll find in this repository:
 # Get in touch
 
 Email: gianfranco.botta7@gmail.com
-[LinkedIn](www.linkedin.com/in/gianfrancobotta)
+
+Linkedin: [LinkedIn](www.linkedin.com/in/gianfrancobotta)
 
 # Support
 If you find any issues, have suggestions, feel free to open an issue or submit a pull request. Your feedback is highly appreciated and contributes to making this space better for everyone.
